@@ -1,0 +1,42 @@
+body  {
+    background-image: url("images/bg.png");
+    
+}
+
+ h1 {
+     padding-left: 5px;
+     align: "left"
+ }
+h2 {
+    padding-left: 5px;
+    align: "left"
+}
+
+h4{
+    padding-left: 4px;
+    padding-right: 4px;
+    align: "left"
+}
+h3{
+    padding-right: 3px;
+    padding-left: 3px;
+}
+li{
+    padding-right: 3px;
+}
+li ul li{
+    padding-right: 3px;
+}
+
+
+.padadjust{
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+ .profileimage {
+
+     padding-left: 5%;
+     padding-right: 10%;
+ }
